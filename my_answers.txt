@@ -1,3 +1,8 @@
 my answers tot his tutorial
 
+<<<<<<< HEAD
 adding some data
+=======
+
+adding __some__ *lines*
+>>>>>>> 023bf5ae823d4e2f0cc4f7c4f9baac5809f3c975
